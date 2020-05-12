@@ -1,5 +1,5 @@
 # COVID-19 Nigeria States Full Dataset
-Last Updated: 12 May 2020
+Data Last Updated: 9 May 2020
 
 ## About
 This dataset contains the official daily data for COVID-19 cases in Nigeria broken down by state. To our knowledge this is the most complete COVID-19 dataset for Nigeria at this time.
