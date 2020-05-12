@@ -26,9 +26,9 @@ When you unzip the zip file, the structure of the folders are:
 
 Each of these folders contains the daily pdf and csv files placed in separate folders for each month.
  
-The /pdf folder contains the original PDF data files downloaded from the NCDC website.
+The /PDF folder contains the original PDF data files downloaded from the NCDC website.
 
-The /csv folder contains the extracted daily data in CSV format. Each day has a separate file. The CSV files are named according to their date in the following format: dd_mm_yyyy.csv
+The /CSV folder contains the extracted daily data in CSV format. Each day has a separate file. The CSV files are named according to their date in the following format: dd_mm_yyyy.csv
 
 ## Missing Dates:
 There was no published data for some of the days so there are no datafiles for those missing dates which are: 
@@ -36,13 +36,17 @@ There was no published data for some of the days so there are no datafiles for t
 - 27 March 2020
 
 ## Data Source:
-Nigeria Center for Disease Control (NCDC) https://ncdc.gov.ng/  https://bit.ly/covidncdc
+Nigeria Center for Disease Control (NCDC) https://ncdc.gov.ng/ 
+Direct link to data page: https://bit.ly/covidncdc
 
 ## Credits:
 - Tony Areghan => Ideas, time and effort 
 - @shirts_ml on Twitter (https://twitter.com/shirts_ml) => Time and effort
 - https://datamouse.blogspot.com => Time and effort
-- NG44 Consulting https://ng44.com: Funding
+- NG44 Consulting https://ng44.com => Funding
+
+## COVID-19 News Updates
+https://coronavirusnigeria.ng4n.com/updates/
 
 ## Contact Us
 For feedback send email to covid19data @ ng4n.com
